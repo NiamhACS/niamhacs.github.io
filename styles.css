@@ -1,9 +1,11 @@
-/*h1{
-    font-size: x-large;
-    font-family:Georgia, 'Times New Roman', Times, serif;
-    
-}*/
 #title{
     font-size: x-large;
     font-family:Georgia, 'Times New Roman', Times, serif;
+}
+html{
+    background-color: aquamarine;
+}
+.link{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: aquamarine;
 }
